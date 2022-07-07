@@ -1,0 +1,26 @@
+[
+ {
+  "bank-en": "melli",
+  "bank-local": "بانک ملی ایران",
+  "bankid": 10000,
+  "priority": 100,
+  "confirmed": true,
+  "country": "IR",
+  "countrycode": 98,
+  "ic-small": "https:\/\/mobinjafari.github.io\/moneymanagerpublicrepository\/public\/images\/Mellilogo.png",
+  "ic-nor": "https:\/\/mobinjafari.github.io\/moneymanagerpublicrepository\/public\/images\/Mellilogo.png",
+  "ic-big": "https:\/\/mobinjafari.github.io\/moneymanagerpublicrepository\/public\/images\/Mellilogo.png"
+ },
+ {
+  "bank-en": "mellat",
+  "bank-local": "بانک ملت",
+  "bankid": 10001,
+  "priority": 101,
+  "confirmed": true,
+  "country": "IR",
+  "countrycode": 98,
+  "ic-small": "https:\/\/mobinjafari.github.io\/moneymanagerpublicrepository\/public\/images\/Mellatlogo.png",
+  "ic-nor": "https:\/\/mobinjafari.github.io\/moneymanagerpublicrepository\/public\/images\/Mellatlogo.png",
+  "ic-big": "https:\/\/mobinjafari.github.io\/moneymanagerpublicrepository\/public\/images\/Mellatlogo.png"
+ }
+]
