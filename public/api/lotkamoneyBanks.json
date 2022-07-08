@@ -27,7 +27,7 @@
   "bankEn": "tejarat",
   "bankLocal": " افریقا بانک تجارت",
   "bankId": 10002,
-  "priority": 102,
+  "priority": 90,
   "confirmed": true,
   "countryStr": "IR",
   "countrycode": 98,
