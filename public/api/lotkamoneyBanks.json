@@ -1,7 +1,7 @@
 [
  {
   "bankEn": "melli",
-  "bankLocal": "بانک ملی امریکا",
+  "bankLocal": "بانک ملی ایران",
   "bankId": 10000,
   "priority": 100,
   "confirmed": true,
@@ -25,7 +25,7 @@
  },
  {
   "bankEn": "tejarat",
-  "bankLocal": " افریقا بانک تجارت",
+  "bankLocal": "بانک تجارت",
   "bankId": 10002,
   "priority": 102,
   "confirmed": true,
