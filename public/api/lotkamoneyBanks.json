@@ -55,45 +55,45 @@
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Saderatlogo.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png"
+  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/sepahlogo.png",
+  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/sepahlogo.png.png",
+  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/sepahlogo.png.png"
  },
  {
-  "bankEn": "mellat",
-  "bankLocal": "بانک ملت",
+  "bankEn": "day",
+  "bankLocal": "بانک دی",
   "bankId": 10005,
   "priority": 101,
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png"
+  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Dayabank.png",
+  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Dayabank.png",
+  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Dayabank.png"
  },
  {
-  "bankEn": "mellat",
-  "bankLocal": "بانک ملت",
+  "bankEn": "ansar",
+  "bankLocal": "بانک انصار",
   "bankId": 10006,
   "priority": 101,
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png"
+  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/ansarbank.png",
+  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/ansarbank.png",
+  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/ansarbank.png"
  },
  {
-  "bankEn": "mellat",
-  "bankLocal": "بانک ملت",
+  "bankEn": "eqtesadnovin",
+  "bankLocal": "بانک اقتصاد نوین",
   "bankId": 10007,
   "priority": 101,
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png"
+  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/eghtesadnovinbank.png",
+  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/eghtesadnovinbank.png",
+  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/eghtesadnovinbank.png"
  },
  {
   "bankEn": "mellat",
@@ -103,9 +103,9 @@
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png"
+  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png"
  },
  {
   "bankEn": "mellat",
@@ -115,9 +115,9 @@
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png"
+  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png"
  },
  {
   "bankEn": "mellat",
@@ -127,9 +127,9 @@
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png"
+  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png"
  },
  {
   "bankEn": "mellat",
@@ -139,9 +139,9 @@
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png"
+  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png"
  },
  {
   "bankEn": "mellat",
@@ -151,9 +151,9 @@
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png"
+  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png"
  },
  {
   "bankEn": "mellat",
@@ -163,9 +163,9 @@
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png"
+  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png"
  },
  {
   "bankEn": "mellat",
@@ -175,9 +175,9 @@
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png"
+  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png"
  },
  {
   "bankEn": "mellat",
@@ -187,9 +187,9 @@
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png"
+  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png"
  },
  {
   "bankEn": "mellat",
@@ -199,9 +199,9 @@
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png"
+  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png"
  },
  {
   "bankEn": "mellat",
@@ -211,9 +211,9 @@
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png"
+  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png"
  },
  {
   "bankEn": "mellat",
@@ -223,9 +223,9 @@
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png"
+  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png"
  },
  {
   "bankEn": "mellat",
@@ -235,9 +235,9 @@
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png"
+  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png"
  },
  {
   "bankEn": "mellat",
@@ -247,9 +247,9 @@
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png"
+  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png"
  },
  {
   "bankEn": "mellat",
@@ -259,9 +259,9 @@
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png"
+  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png"
  },
  {
   "bankEn": "mellat",
@@ -271,9 +271,9 @@
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png"
+  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png"
  },
  {
   "bankEn": "mellat",
@@ -283,8 +283,8 @@
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png.png"
+  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
+  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png"
  }
 ]
