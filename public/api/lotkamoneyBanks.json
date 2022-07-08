@@ -37,15 +37,15 @@
  },
  {
   "bankEn": "mellat",
-  "bankLocal": "بانک ملت",
+  "bankLocal": "بانک صادرات",
   "bankId": 10003,
-  "priority": 101,
-  "confirmed": false,
+  "priority": 103,
+  "confirmed": true,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https:\/\/mobinjafari.github.io\/moneymanagerpublicrepository\/public\/images\/Mellatlogo.png",
-  "icNor": "https:\/\/mobinjafari.github.io\/moneymanagerpublicrepository\/public\/images\/Mellatlogo.png",
-  "icBig": "https:\/\/mobinjafari.github.io\/moneymanagerpublicrepository\/public\/images\/Mellatlogo.png"
+  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Saderatlogo.png",
+  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Saderatlogo.png",
+  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Saderatlogo.png"
  },
  {
   "bankEn": "mellat",
