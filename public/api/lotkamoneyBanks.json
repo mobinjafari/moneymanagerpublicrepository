@@ -56,8 +56,8 @@
   "countryStr": "IR",
   "countrycode": 98,
   "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/sepahlogo.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/sepahlogo.png.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/sepahlogo.png.png"
+  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/sepahlogo.png",
+  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/sepahlogo.png"
  },
  {
   "bankEn": "day",
@@ -96,100 +96,100 @@
   "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/eghtesadnovinbank.png"
  },
  {
-  "bankEn": "mellat",
-  "bankLocal": "بانک ملت",
+  "bankEn": "Keshavarzi",
+  "bankLocal": "بانک کشاورزی",
   "bankId": 10008,
   "priority": 101,
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png"
+  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Keshavarzibank.png",
+  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Keshavarzibank.png",
+  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Keshavarzibank.png"
  },
  {
-  "bankEn": "mellat",
-  "bankLocal": "بانک ملت",
+  "bankEn": "maskanbank",
+  "bankLocal": "بانک مسکن",
   "bankId": 10009,
   "priority": 101,
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png"
+  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/maskanbank.png",
+  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/maskanbank.png",
+  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/maskanbank.png"
  },
  {
-  "bankEn": "mellat",
-  "bankLocal": "بانک ملت",
+  "bankEn": "Mehriran",
+  "bankLocal": "بانک قرض الحسنه مهر ایران",
   "bankId": 10010,
   "priority": 101,
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png"
+  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mehriran.png",
+  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mehriran.png",
+  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mehriran.png"
  },
  {
-  "bankEn": "mellat",
-  "bankLocal": "بانک ملت",
+  "bankEn": "shahrbank",
+  "bankLocal": "بانک شهر",
   "bankId": 10011,
   "priority": 101,
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png"
+  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/shahrbank.png",
+  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/shahrbank.png",
+  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/shahrbank.png"
  },
  {
-  "bankEn": "mellat",
+  "bankEn": "sinabank",
   "bankLocal": "بانک ملت",
   "bankId": 10012,
   "priority": 101,
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png"
+  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/sinabank.png",
+  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/sinabank.png",
+  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/sinabank.png"
  },
  {
-  "bankEn": "mellat",
-  "bankLocal": "بانک ملت",
+  "bankEn": "samanbank",
+  "bankLocal": "بانک سامان",
   "bankId": 10013,
   "priority": 101,
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png"
+  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/samanbank.png",
+  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/samanbank.png",
+  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/samanbank.png"
  },
  {
-  "bankEn": "mellat",
+  "bankEn": "Parsianabnk",
   "bankLocal": "بانک ملت",
   "bankId": 10014,
   "priority": 101,
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png"
+  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Parsianabnk.png",
+  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Parsianabnk.png",
+  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Parsianabnk.png"
  },
  {
-  "bankEn": "mellat",
-  "bankLocal": "بانک ملت",
+  "bankEn": "pasargodbnk",
+  "bankLocal": "بانک پاسارگاد",
   "bankId": 10015,
   "priority": 101,
   "confirmed": false,
   "countryStr": "IR",
   "countrycode": 98,
-  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
-  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png",
-  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellatlogo.png"
+  "icSmall": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/pasargodbnk.png",
+  "icNor": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/pasargodbnk.png",
+  "icBig": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/pasargodbnk.png"
  },
  {
   "bankEn": "mellat",
