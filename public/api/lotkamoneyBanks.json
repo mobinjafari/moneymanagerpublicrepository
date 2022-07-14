@@ -1,7 +1,7 @@
 [
  {
   "bankEn": "melli",
-  "bankLocal": "بانک ملی ایران",
+  "bankLocal": "بانک ملی آمریکا",
   "bankId": 10000,
   "priority": 100,
   "confirmed": true,
