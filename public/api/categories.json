@@ -1,0 +1,30 @@
+[
+    {
+     "caten": "food",
+     "catpe": "خوراک",
+     "catid": 10000,
+     "pricemin": 1000,
+     "pricemax": 200000,
+     "icon": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellilogo.png",
+     "code": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellilogo.png"
+    },
+    {
+     "caten": "clothes",
+     "catpe": "لباس",
+     "catid": 10000,
+     "pricemin": 100000,
+     "pricemax": 5000000,
+     "icon": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellilogo.png",
+     "code": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellilogo.png"
+    }  ,
+    {
+    "caten": "house",
+    "catpe": "اجاره خونه",
+    "catid": 10000,
+    "pricemin": 500000,
+    "pricemax": 100000000,
+    "icon": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellilogo.png",
+    "code": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellilogo.png"
+    }
+  
+   ]
