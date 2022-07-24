@@ -20,7 +20,16 @@
     {
     "caten": "house",
     "catpe": "اجاره خونه",
-    "catid": 10000,
+    "catid": 10002,
+    "pricemin": 500000,
+    "pricemax": 100000000,
+    "icon": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellilogo.png",
+    "code": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellilogo.png"
+    },
+    {
+    "caten": "supermarket",
+    "catpe": "سوپرمارکتی",
+    "catid": 10003,
     "pricemin": 500000,
     "pricemax": 100000000,
     "icon": "https://mobinjafari.github.io/moneymanagerpublicrepository/public/images/Mellilogo.png",
